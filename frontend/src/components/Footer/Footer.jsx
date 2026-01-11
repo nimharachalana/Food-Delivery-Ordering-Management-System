@@ -28,14 +28,14 @@ function Footer() {
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <li>+1 234 567 890</li>
-                    <li>support@example.com</li>
+                    <li>+94 70 4039 411</li>
+                    <li>cantecshop@gmail.com</li>
                 </ul>
             </div>
 
         </div>
         <hr />
-        <p className="footer-copyright">© 2023 Food Delivery. All rights reserved.</p>
+        <p className="footer-copyright">© 2026 Food Delivery. All rights reserved.</p>
     </div>
   );
 }
